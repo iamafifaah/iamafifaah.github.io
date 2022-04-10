@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #b8cbeb;
+}
+
+#Projects {
+  background-color: #b8cbeb;
+}
+
+#Certificates {
+  background-color: #476caa;
+}
+
+#Skills {
+  background-color: #b8cbeb;
+}
+
+#ContactMe {
+  background-color: #476caa;
+}
+
+section {
+  padding-top: 6 rem;
+}
